@@ -9,7 +9,8 @@ public class Codigo : MonoBehaviour
     {
         
     }
-
+    //Inserte codigo aqui :D
+    // Aqui hay mucho codigo importane 
     // Update is called once per frame
     void Update()
     {
