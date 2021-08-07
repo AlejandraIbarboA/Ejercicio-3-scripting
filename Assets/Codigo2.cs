@@ -5,6 +5,7 @@ using UnityEngine;
 public class Codigo2 : MonoBehaviour
 {
     public Vector2 hola;
+    private Vector2 A;
 
     // Codigo nuevo :D
     // Start is called before the first frame update
